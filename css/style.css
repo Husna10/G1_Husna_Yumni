@@ -50,7 +50,8 @@ body {
 }
 
 /*header section*/
-.hero_area {
+.hero_area 
+{
   height: 100vh;
   position: relative;
   background-image: url(../images/hero-bg.png);
@@ -122,7 +123,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 30px;
+  width: 150px;
   margin-right: 5px;
 }
 
@@ -205,7 +206,7 @@ a:focus {
 }
 
 .slider_section .design-box img {
-  width: 100%;
+  width: 1000px;
 }
 
 .slider_section .slider_number-container {
@@ -288,7 +289,12 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
+  width: 450px;
+}
+
+.slider_section .img-box1 img
+{
+  width: 270px;
 }
 
 .slider_section .carousel-indicators {
@@ -344,7 +350,8 @@ a:focus {
   box-shadow: 0px 0px 2px 0.5px rgba(0, 0, 0, 0.15);
 }
 
-.item_section .item_container .box .img-box {
+.item_section .item_container .box .img-box 
+{
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -355,7 +362,12 @@ a:focus {
 }
 
 .item_section .item_container .box .img-box img {
-  width: 125px;
+  width: 200px;
+}
+
+.item_section .item_container .box .img-box2 img 
+{
+width: 150px;
 }
 
 .item_section .item_container .box h6 {
@@ -473,7 +485,7 @@ a:focus {
 }
 
 .price_section .price_container .box .img-box img {
-  width: 150px;
+  width: 250px;
 }
 
 .price_section .price_container .box h6 {
@@ -562,8 +574,8 @@ a:focus {
   margin-top: 15px;
 }
 
-.ring_section .ring_container .img-box img {
-  width: 100%;
+.ring_section .ring_container .img-box5 img {
+  width: 550px;
 }
 
 .client_section .heading_container {
@@ -604,7 +616,7 @@ a:focus {
 }
 
 .client_section .client_container .client-id .img-box img {
-  width: 100%;
+  width: 170px;
 }
 
 .client_section .client_container .client-id h5 {
@@ -769,7 +781,7 @@ a:focus {
 }
 
 .info_section .info_container .info_logo a img {
-  width: 50px;
+  width: 170px;
   margin-right: 10px;
 }
 
